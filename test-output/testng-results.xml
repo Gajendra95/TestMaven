@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6460" started-at="2019-09-11T13:54:47 IST" finished-at="2019-09-11T13:54:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6460" started-at="2019-09-11T13:54:47 IST" finished-at="2019-09-11T13:54:54 IST">
+      <class name="mahetest.csdtest">
+        <test-method status="PASS" signature="test()[pri:0, instance:mahetest.csdtest@369f73a2]" name="test" duration-ms="6426" started-at="2019-09-11T13:54:47 IST" finished-at="2019-09-11T13:54:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mahetest.csdtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
